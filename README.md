@@ -1,28 +1,29 @@
-# 👋 Olá, Meu nome é Adriano 
+<h2>Olá, Sejá bem vindo, meu nome é Adriano Teixeira.</h2> 
 
-## 💼 Perfil Profissional
+<h2>💼 Perfil Profissional</h2>
 
-- 🚛 Formado em Logística
-- 💻 Estudante de Programação
-- 🤍 Apaixonado por 🖥️ Tecnologia |🎮 Games | 🔰 Automóveis 
-- 🎓 Cursando [Desenvolvedor Backend / Senac]
+<h5>-🚛 Formado em Logística</h5>
+<h5>-💻 Estudante de Programação</h5>
+<h5>-🤍 Apaixonado por 🖥️ Tecnologia |🎮 Games | 🔰 Automóveis</h5>
+<h5>-🎓 Cursando [Desenvolvedor Backend / Senac]</h5>
 
-## 🚀 Habilidades
+<h2>🚀 Habilidades</h2>
 
-Aqui estão algumas das linguagens de programação e tecnologias que estou me familiarizando ao longo do meu curso:
+<h5>Aqui estão algumas das linguagens de programação e tecnologias que estou me familiarizando ao longo do meu curso:</h5>
 
-## 👨‍💻 Linguagens: 
-[![My Skills](https://skillicons.dev/icons?i=javascript)](https://skillicons.dev)
+<h3>👨‍💻 Linguagens:</h3>
+<img src="https://skillicons.dev/icons?i=javascript" width="30" />
 
-## 🧰 Frameworks: 
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+<h3>🧰 Frameworks:</h3>
+<img src="https://skillicons.dev/icons?i=react" width="30" />
 
-## 🗄️ Bancos de Dados: 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
-## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,vscode)](https://skillicons.dev)<br><br>
+<h3>🗄️ Bancos de Dados:</h3> 
+<img src="https://skillicons.dev/icons?i=mysql,mongo" width="70" />
 
-## 📫 Contato
+<h3>⚙️ Ferramentas:</h3>
+<img src="https://skillicons.dev/icons?i=git,github,nodejs,vscode" width="130" />
+
+<h2>📫 Contato</h2>
 
 ![Gmail Badge](https://img.shields.io/badge/-adriano.rodrigo.teixeira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})
 [![Instagram](https://img.shields.io/badge/-@Driiteixeiraa_-purple?style=flat-square&logo=Instagram&logoColor=white&link={Link})]({Link})
