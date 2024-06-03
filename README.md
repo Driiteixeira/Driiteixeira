@@ -4,7 +4,7 @@
 
 - 🚛 Formado em Logística
 - 💻 Estudante de Programação
--  Apaixonado por 🖥️ Tecnologia |🎮 Games | 🔰 Automóveis 
+- 🤍 Apaixonado por 🖥️ Tecnologia |🎮 Games | 🔰 Automóveis 
 - 🎓 Cursando [Desenvolvedor Backend / Senac]
 
 ## 🚀 Habilidades
